@@ -5,7 +5,7 @@ export default function Registration() {
 
     <div>
        Registration
-       {/* <Navigate to="/dashboard" /> */}
+       <Navigate to="/dashboard" />
     </div>
 
     )

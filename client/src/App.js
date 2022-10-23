@@ -5,8 +5,7 @@ import Dashboard from './components/dashboard'
 import {
   BrowserRouter as Router,
   Routes,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 
 export default function App() {
